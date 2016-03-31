@@ -1,0 +1,9 @@
+$username = $_session['SESS_USERNAME'];
+$shoppingcart = $_session['shoppingcart'];
+$albums = $_SESSION['MyAlbums'];
+$id = $_SESSION['mem_id'];
+$fname =$_SESSION['fname'];
+$lname =$_SESSION['lname'];
+$favm =$_SESSION['favm'];
+$favc =$_SESSION['favc'];
+$albums[] =$_SESSION['albums'];
